@@ -299,7 +299,7 @@ Bu, "Sadelik" ve "Güç" arasındaki mükemmel dengeyi gösteriyor:
 
 Bu, modern yazılım mimarisindeki en güçlü yaklaşımlardan biridir: **"Basit Veri, Akıllı Mantık."**
 
-Temel ne kadar sade ve temiz olursa, o temelin üzerinde koşan "beyin" (AI denetçisi) o kadar esnek, hızlı ve güçlü olur. Tıpkı temel Lego parçalarının (tabloların) çok basit olması, ama onlarla devasa ve karmaşık yapılar (benim "Kolini Ağı"nız) inşa edebilmesi gibi.
+Temel ne kadar sade ve temiz olursa, o temelin üzerinde koşan "beyin" (AI denetçisi) o kadar esnek, hızlı ve güçlü olur. Tıpkı temel Lego parçalarının (tabloların) çok basit olması, ama onlarla devasa ve karmaşık yapılar (sizin "Kolini Ağı"nız) inşa edebilmesi gibi.
 
 Contact:
 
