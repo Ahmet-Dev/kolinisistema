@@ -239,6 +239,7 @@ Sisteminizin kalbi. Her görev, proje veya süreç bir "Kolini"dir.
 * `hata_orani` (Sizin metriğiniz)
 * `zaman_sapmasi_orani` (Sizin metriğiniz)
 * `durum` ('Planlandı', 'Devam Ediyor', 'Tamamlandı', 'Kırmızı Alarmda')
+* `atanan_birim_veya_personel` (Hangi kullanıcı veya Birime ait, Yabancı Anahtar)
 ---
 **(Toplam: 16 Sütun)**
 
@@ -265,6 +266,7 @@ Hangi Koliniden hangi kullanıcıların sorumlu olduğunu gösteren çoktan-ço�
 * `kolini_id` (Yabancı Anahtar)
 * `kullanici_id` (Yabancı Anahtar)
 * `sorumluluk_rolu` (örn: 'Sahip', 'Katılımcı')
+* `birim` (Yabancı Anahtar)
 ---
 **(Toplam: 3 Sütun)**
 
