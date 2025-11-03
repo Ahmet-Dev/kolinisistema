@@ -268,7 +268,7 @@ Hangi Koliniden hangi kullanıcıların veya birimlerin sorumlu olduğunu göste
 * `sorumluluk_rolu` (örn: 'Sahip', 'Katılımcı')
 * `birim` (Yabancı Anahtar)
 ---
-**(Toplam: 3 Sütun)**
+**(Toplam: 4 Sütun)**
 
 #### 6. `J_Koliniler_Kumeler` (Ara Tablo)
 Hangi Kolinin hangi Kümenin parçası olduğunu gösteren çoktan-çoğa ilişki tablosu.
