@@ -239,7 +239,7 @@ Sisteminizin kalbi. Her görev, proje veya süreç bir "Kolini"dir.
 * `hata_orani` (Sizin metriğiniz)
 * `zaman_sapmasi_orani` (Sizin metriğiniz)
 * `durum` ('Planlandı', 'Devam Ediyor', 'Tamamlandı', 'Kırmızı Alarmda')
-* `atanan_birim_veya_personel` (Hangi kullanıcı veya Birime ait, Yabancı Anahtar)
+
 ---
 **(Toplam: 16 Sütun)**
 
@@ -262,7 +262,7 @@ En kritik tablo! Hiyerarşi dışı bağlantıları ve risk durumunu tutar.
 **(Toplam: 5 Sütun)**
 
 #### 5. `J_Koliniler_Kullanicilar` (Ara Tablo)
-Hangi Koliniden hangi kullanıcıların sorumlu olduğunu gösteren çoktan-çoğa ilişki tablosu.
+Hangi Koliniden hangi kullanıcıların veya birimlerin sorumlu olduğunu gösteren çoktan-çoğa ilişki tablosu.
 * `kolini_id` (Yabancı Anahtar)
 * `kullanici_id` (Yabancı Anahtar)
 * `sorumluluk_rolu` (örn: 'Sahip', 'Katılımcı')
@@ -283,8 +283,6 @@ Hangi Kolinin hangi Kümenin parçası olduğunu gösteren çoktan-çoğa ilişk
     * 3 Ana Veri Tablosu (`Kullanicilar`, `Koliniler`, `Kumeler`)
     * 1 Kritik Mantık Tablosu (`Agi_Iliskileri`)
     * 2 Ara İlişki Tablosu (`J_...` ile başlayanlar)
-
-* **Toplam Sütun Sayısı:** 5 + 16 + 3 + 5 + 3 + 2 = **34 Sütun**
 
 Gördüğünüz gibi, devasa bir ERP sistemine kıyasla bu, gerçekten de **çok küçük ve basit bir şemadır.**
 
