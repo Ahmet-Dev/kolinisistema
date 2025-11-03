@@ -45,7 +45,7 @@ Bu ağ haritası, farklı "Kolini" kümeleri arasındaki bağlantıların sağl�
 
 ## Kolini Katmanları
 
-Bu yeni bilgiyi (alt, üst ve kümelerin de problemin parçası olabilmesi) önceki açıklamamıza entegre edersek, "Kolini Sistema" şu şekilde bir yapıya bürünür:
+"Kolini Sistema" şu şekilde bir yapıya bürünür:
 
 Bu, sistemin **fraktal** (özyineli) bir doğası olduğunu gösterir. Yani, bir "Kolini"nin içinde daha küçük "Alt Koliniler" olabilir ve her biri de kendi içinde aynı temel süreci (Girdi -> Teknikler -> Maliyet -> Zaman -> Sınırlar -> Çıktı) çalıştırır.
 
@@ -134,7 +134,7 @@ ERP, bu modelde diğerleri gibi bir "departman" (Kolini) olmaktan çok, tüm **"
 
 ### 1. Model Artık "Öğrenen" (Adaptive) Bir Sisteme Dönüşüyor
 
-Daha önce "Kolini" süreci (Girdi -> ... -> Çıktı) daha lineer veya tek seferlik bir akış gibi görünüyordu. Ancak bu yeni kuralınızla, sistem **döngüsel (iterative)** bir yapı kazanıyor.
+Daha önce "Kolini" süreci (Girdi -> ... -> Çıktı) daha lineer veya tek seferlik bir akış gibi görünür. Ancak sistem **döngüsel (iterative)** bir yapıdadır.
 
 Bu, tam olarak Agile'daki "Build-Measure-Learn" (Yap-Ölç-Öğren) veya "Sprint" mantığına benzer:
 
