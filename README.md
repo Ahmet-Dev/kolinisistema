@@ -216,6 +216,7 @@ Kolinilerden sorumlu olacak kişilerin tablosu.
 * `ad_soyad`
 * `email`
 * `rol` (Yönetici, Çalışan vb.)
+* `birim` (Yönetim, Muhasebe, Nakliye vb.)
 * `olusturulma_tarihi`
 ---
 **(Toplam: 5 Sütun)**
